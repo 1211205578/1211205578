@@ -1,1 +1,1 @@
-Hi, this is not the place to find me.
+Hi. You should not have seen this readme.md yet.
